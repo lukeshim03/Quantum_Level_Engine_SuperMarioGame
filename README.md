@@ -1,6 +1,6 @@
 #  Quantum Cyberpunk Supermario
 
-This project is not implemented yet. This project is for Qollab Quantum Challenge Proposal, just showing some part(game map generation). This is minimal implementation of normal supermario map generation by QRC.
+This project is not fully-implemented yet. This project is for Qollab Quantum Challenge Proposal, just implemented some part(game map generation). This is minimal implementation of normal supermario map generation by QRC.
 But we propose a cyberpunk Mario-style platformer where a quantum reservoir generates worlds in superposition.
 We WANT TO implement real game play, with cyberpunk map tiles, game charactors, and quantum boss with this QRC-based map generation.
 
